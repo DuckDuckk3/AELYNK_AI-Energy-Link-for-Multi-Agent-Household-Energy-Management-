@@ -1,6 +1,7 @@
-# SENTIENT-GRID---Smart-Energy-System
-Trong những năm gần đây, quá trình chuyển đổi năng lượng đang diễn ra mạnh mẽ trên toàn cầu dưới tác động của biến đổi khí hậu, nhu cầu giảm phát thải và yêu cầu đảm bảo an ninh năng lượng. Trong bối cảnh đó, năng lượng tái tạo được xem là một trụ cột trung tâm của hệ thống năng lượng tương lai (International Energy Agency [IEA], 2025).
-Song song với xu hướng này, vai trò của hộ gia đình trong hệ thống điện đang thay đổi. Thay vì chỉ là người tiêu thụ điện, nhiều hộ gia đình hiện nay vừa tiêu thụ vừa có thể tự sản xuất điện nhờ hệ thống điện mặt trời mái nhà, pin lưu trữ và các thiết bị điện thông minh. Những hộ này được gọi là “prosumer” – vừa sản xuất vừa tiêu thụ năng lượng (Parag & Varaiya, 2016).
-Tuy nhiên, sự thay đổi này cũng làm cho việc sử dụng điện trở nên phức tạp hơn. Lượng điện từ năng lượng mặt trời phụ thuộc nhiều vào thời tiết, trong khi nhu cầu sử dụng điện trong gia đình lại thay đổi liên tục theo thời gian trong ngày. Điều này có thể dẫn đến tình trạng lúc thì dư điện, lúc thì thiếu điện, gây lãng phí hoặc làm tăng chi phí sử dụng điện nếu phải mua từ lưới điện.
-Các hệ thống quản lý năng lượng hiện nay trong hộ gia đình chủ yếu hoạt động theo các quy tắc cố định hoặc các kịch bản được thiết lập sẵn. Cách làm này phù hợp với hệ thống đơn giản, nhưng gặp khó khăn khi điều kiện thực tế thay đổi liên tục và khó dự đoán.
-Do đó, cần có những phương pháp quản lý năng lượng linh hoạt hơn, có khả năng tự điều chỉnh theo tình trạng thực tế của hệ thống thay vì chỉ dựa vào các quy tắc cố định. Đây là động lực chính cho việc nghiên cứu các mô hình điều phối năng lượng thông minh hơn ở cấp độ hộ gia đình.
+## Tsinghua University
+### Global Program on “Innovation and Entrepreneurship for the 21st Century AI-driven Digital Economy”
+### Project: AELYNK - AI-Energy Link for Multi-Agent Household Energy Management 
+Author: Nguyen Minh Duc
+Mentor: Prof. Kris Singh
+Email: duc.nm2414039@sis.hust.edu.vn
+Date: Autumn, 2026
